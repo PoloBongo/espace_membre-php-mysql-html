@@ -1,0 +1,24 @@
+html, body {
+	font-family: 'Open Sans', sans-serif;
+	background:#222222;
+	color: #f7f7f7;
+	margin:0; 
+	padding-top:10px;
+	width:100%; 
+}
+
+
+.btn {
+    border: 1px solid transparent;
+    font-size: 14px;
+    line-height: 1.4;
+    padding: 11px 20px;
+    transition: all .5s ease;
+	background-color: #060b0c;
+	color: #fff;
+}
+
+.btn:hover {
+	border: 1px solid #00cfef;
+	color: #00cfef;
+}
